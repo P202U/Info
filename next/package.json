@@ -13,10 +13,12 @@
     "@prisma/client": "^7.0.1",
     "argon2": "^0.44.0",
     "dotenv": "^17.2.3",
+    "jose": "^6.1.2",
     "next": "16.0.5",
     "pg": "^8.16.3",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "zod": "^4.1.13"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
